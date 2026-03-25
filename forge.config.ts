@@ -21,9 +21,9 @@ const config: ForgeConfig = {
     {
       name: '@electron-forge/plugin-webpack',
       config: {
-        mainConfig: './webpack.main.config.ts',
+        mainConfig: './webpack.main.config.js',
         renderer: {
-          config: './webpack.renderer.config.ts',
+          config: './webpack.renderer.config.js',
           entryPoints: [
             {
               name: 'main_window',
