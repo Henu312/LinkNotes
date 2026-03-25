@@ -17,7 +17,7 @@
     "notes",
     "codemirror"
   ],
-  "author": "",
+  "author": "Henu312",
   "license": "MIT",
   "devDependencies": {
     "@electron-forge/cli": "^7.8.1",
